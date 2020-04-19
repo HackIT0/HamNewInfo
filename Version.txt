@@ -1,0 +1,17 @@
+Informationen
+=============
+HamNewInfo Version 0.1.0.1
+	° Erste Version des Programms
+	° Info-EMail wird per SMTP zugestellt
+	° Zustellung via ESMTP nicht möglich
+	  (Anmeldung am SMTP mit Benutzername und Kennwort)
+	
+HamNewInfo Version 0.1.0.2
+	° SMTP-Modul entfernt
+	° Info-EMail wird als Datei gespeichert
+
+HamNewInfo Version 0.1.0.3
+	° Fehler im Header "SUBJECT" behoben
+
+HamNewInfo Version 0.1.0.4
+	° Neue Dateisuchfunktion eingebaut, da Probleme unter Windows XP
