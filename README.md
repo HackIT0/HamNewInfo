@@ -18,4 +18,5 @@ in den entsprechenden Verzeichnis abgespeichert.
 Das Programm selbst ist mit Borland Delphi 7 - Personaledition erstellt wurden und benötigt keine Laufzeitbibilotheken  
 oder ActiveX-Steuerelemente.
 
-Alle notwendigen Informationen finden Sie im [Wiki](https://github.com/HackIT0/HamNewInfo/wiki).
+Alle notwendigen Informationen finden Sie im [Wiki](https://github.com/HackIT0/HamNewInfo/wiki).  
+Die erstellte EXE-Datei steht [hier](https://github.com/HackIT0/HamNewInfo/releases) zur Verfügung.
